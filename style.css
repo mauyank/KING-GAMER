@@ -65,6 +65,12 @@ footer {
     margin-bottom: 10px;
 }
 
+.c {
+    color: white;
+    height: auto;
+    width: 50px;
+}
+
 a {
     color: lightskyblue;
     text-decoration: none;
