@@ -66,9 +66,10 @@ footer {
 }
 
 .c {
-    color: white;
+    color: pink;
     height: auto;
-    width: 50px;
+    width: 100px;
+    text-decoration: underline;
 }
 
 a {
