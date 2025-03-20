@@ -78,11 +78,11 @@ a {
 {
     .box{
         width: auto;
-        height: 600px;
+        height: auto;
     }
     .links{
         width: auto;
-        height: 600px;
+        height: auto;
     }
     footer{
         height: auto;
